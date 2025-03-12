@@ -1,10 +1,10 @@
 # Encript Tools
 
 ## Deskripsi
-Encript Tools adalah kumpulan skrip yang digunakan untuk mengenkripsi dan mendekripsi data. Skrip ini menggunakan OpenSSL dan dirancang untuk memudahkan proses enkripsi dan dekripsi dengan berbagai algoritma.
+Encript Tools adalah kumpulan skrip yang digunakan untuk mengenkripsi dan mendekripsi data. Skrip ini menggunakan OpenSSL dan dirancang untuk memudahkan proses enkripsi dan dekripsi dengan algoritma AES.
 
 ## Fitur
-- Enkripsi data menggunakan algoritma AES, DES, dan RSA.
+- Enkripsi data menggunakan algoritma AES.
 - Dekripsi data yang telah dienkripsi.
 - Dukungan untuk file teks dan biner.
 - Mudah digunakan dengan antarmuka baris perintah.
