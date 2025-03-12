@@ -22,6 +22,10 @@ Encript Tools adalah kumpulan skrip yang digunakan untuk mengenkripsi dan mendek
     ```bash
     bash install.sh
     ```
+4. Untuk Termux,install dengan cara:
+    ```bash
+    bash tinstall.sh
+    ```
 
 ## Penggunaan
 Untuk menggunakan skrip enkripsi, jalankan perintah berikut:
