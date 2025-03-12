@@ -39,6 +39,3 @@ decript input_file output_file password
 
 ## Kontribusi
 Jika Anda ingin berkontribusi pada proyek ini, silakan fork repositori ini dan buat pull request dengan perubahan Anda.
-
-## Lisensi
-Proyek ini dilisensikan di bawah lisensi MIT. Lihat file [LICENSE](LICENSE) untuk informasi lebih lanjut.
