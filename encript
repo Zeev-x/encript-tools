@@ -1,0 +1,12 @@
+#!/bin/bash
+if [ -z "$1" ] || [ -z "$2" ] || [ -z "$3" ]; then
+    echo "Usage: encript <input_file> <output_file> <password>"
+    exit 1
+fi
+
+# Enkripsi dengan OpenSSL AES-256-CBC
+openssl enc -aes-256-cbc -salt -in "$1" -out "$2" -pass pass:"$3"
+
+echo "name : $2" > "$2-key.txt"
+echo "Password : $3" >> "$2-key.txt"
+#echo "File '$1' berhasil dienkripsi menjadi '$2' dengan password '$3'"
