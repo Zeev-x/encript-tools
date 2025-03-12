@@ -1,4 +1,4 @@
-supo apt-get install openssl
+sudo apt-get install openssl
 sudo mv encript /usr/bin
 sudo chmod +x /usr/bin/encript
 sudo mv decript /usr/bin
